@@ -1,0 +1,4 @@
+nextjs-architecture/node_modules
+nextjs-blog/node_modules
+node_modules *
+node_modules

@@ -1,0 +1,159 @@
+{
+    "news": [
+        
+            {
+              "id": 1,
+              "title": "Lorem Ipsum Dolor Sit Amet",
+              "category": "Technology",
+              "date": "2023-02-01",
+              "content": "HEYYYYYYYYY Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            },
+            {
+              "id": 2,
+              "title": "Fusce Euismod Consequat Eros",
+              "category": "Science",
+              "date": "2024-02-02",
+              "content": "Fusce euismod consequat eros, vel malesuada odio malesuada non. Proin eu augue eu urna hendrerit pharetra."
+            },
+            {
+              "id": 3,
+              "title": "Aenean Tempor Mollis Diam",
+              "category": "Entertainment",
+              "date": "2024-02-03",
+              "content": "Aenean tempor mollis diam, ut vulputate felis rhoncus id. Integer nec purus nec augue facilisis mattis."
+            },
+            {
+              "id": 4,
+              "title": "Vestibulum Id Nisl Euismod",
+              "category": "Business",
+              "date": "2024-02-04",
+              "content": "Vestibulum id nisl euismod, consectetur elit ut, facilisis risus. Nulla facilisi. Cras tincidunt fringilla quam, eu tempus tortor venenatis id."
+            },
+            {
+              "id": 5,
+              "title": "Pellentesque Habitant Morbi Tristique",
+              "category": "Health",
+              "date": "2024-02-05",
+              "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut rhoncus libero eget mauris convallis efficitur."
+            },
+            {
+              "id": 6,
+              "title": "Duis Gravida Aliquam Ligula",
+              "category": "Sports",
+              "date": "2024-02-06",
+              "content": "Duis gravida aliquam ligula, non efficitur odio hendrerit ac. Quisque vehicula sapien ut elit congue, id rhoncus purus facilisis."
+            },
+            {
+              "id": 7,
+              "title": "Morbi Feugiat Augue In Tellus",
+              "category": "Politics",
+              "date": "2024-02-07",
+              "content": "Morbi feugiat augue in tellus bibendum tincidunt. Nunc eget efficitur quam. Sed euismod tristique ipsum, in egestas justo vulputate ac."
+            },
+            {
+              "id": 8,
+              "title": "Aliquam Erat Volutpat",
+              "category": "Environment",
+              "date": "2024-02-08",
+              "content": "Aliquam erat volutpat. Phasellus euismod libero id metus eleifend, sit amet imperdiet urna ultrices. Integer ut magna sed justo hendrerit mattis."
+            },
+            {
+              "id": 9,
+              "title": "Suspendisse At Sem Non Risus Tristique",
+              "category": "Education",
+              "date": "2024-02-09",
+              "content": "Suspendisse at sem non risus tristique venenatis. Vivamus vel imperdiet neque. Nunc sit amet ligula in libero interdum vulputate id sit amet quam."
+            },
+            {
+              "id": 10,
+              "title": "Curabitur Nec Neque Eu Nisl Feugiat",
+              "category": "Travel",
+              "date": "2024-02-10",
+              "content": "Curabitur nec neque eu nisl feugiat facilisis nec sit amet turpis. Sed eu arcu vel justo faucibus laoreet nec ut ligula."
+            }
+
+          
+  
+    ],
+    "dashboard":[
+        {
+            "posts":"50",
+            "likes":"1000",
+            "followers":"50",
+            "following":"100",
+            "comments":"20"
+        }
+    ],
+    "events": [
+        {
+          "id": 1,
+          "title": "Event 1",
+          "description": "Description 1",
+          "category": "sports",
+          "date": "April 25"
+        },
+        {
+          "id": 2,
+          "title": "Event 2",
+          "description": "Description 2",
+          "category": "technology",
+          "date": "May 25"
+        },
+        {
+          "id": 3,
+          "title": "Event 3",
+          "description": "Description 3",
+          "category": "food",
+          "date": "October 25"
+        },
+        {
+          "id": 4,
+          "title": "Event 4",
+          "description": "Description 4",
+          "category": "food",
+          "date": "April 25"
+        },
+        {
+          "id": 5,
+          "title": "Event 5",
+          "description": "Description 5",
+          "category": "sports",
+          "date": "January 15"
+        },
+        {
+          "id": 6,
+          "title": "Event 6",
+          "description": "Description 6",
+          "category": "art",
+          "date": "April 25"
+        },
+        {
+          "id": 7,
+          "title": "Event 7",
+          "description": "Description 7",
+          "category": "technology",
+          "date": "June 25"
+        },
+        {
+          "id": 8,
+          "title": "Event 8",
+          "description": "Description 8",
+          "category": "sports",
+          "date": "February 28"
+        },
+        {
+          "id": 9,
+          "title": "Event 9",
+          "description": "Description 9",
+          "category": "food",
+          "date": "April 25"
+        },
+        {
+          "id": 10,
+          "title": "Event 10",
+          "description": "Description 10",
+          "category": "sports",
+          "date": "August 5"
+        }
+      ]
+  }
